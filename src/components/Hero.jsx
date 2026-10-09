@@ -6,11 +6,11 @@ function Hero() {
       <div className="hero-content">
 
         <span className="hero-small">
-          Delicias da Gaby - Doces caseiros e saborosos que encantam o paladar.
+          Delicias da Gaby - produtos caseiros e saborosos.
         </span>
 
         <h1>
-          Produtos saborosos que encantam o paladar.
+          Doces saborosos que encantam o paladar.
           <br />
           
         </h1>

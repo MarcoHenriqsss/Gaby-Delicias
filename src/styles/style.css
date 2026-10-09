@@ -8,7 +8,8 @@
   --gray: #777777;
   --light-gray: #e8e5e1;
   --gold: #b99a61;
-  --gold-dark: #2c8d02
+  --gold-dark: #0350b0
+
   ;
 }
 
@@ -222,7 +223,7 @@ button {
 
   letter-spacing: 4px;
 
-  color: #2c8d02;
+  color: #0350b0;
 }
 
 
@@ -239,7 +240,7 @@ button {
 
   font-weight: 500;
 
-  color: #111;
+  color: #0350b0;
 }
 
 
@@ -256,7 +257,7 @@ button {
 
   line-height: 1.8;
 
-  color: #000000;
+  color: #0350b0;
 }
 
 
@@ -267,7 +268,7 @@ button {
 
   padding: 15px 30px;
 
-  background: #111;
+  background: #0350b0;
 
   color: white;
 
@@ -285,7 +286,7 @@ button {
 }
 
 .hero-button:hover {
-  background: #2c8d02;
+  background: #0350b0;
 
   transform: translateY(-2px);
 }
@@ -312,7 +313,7 @@ button {
 
 .section-title span,
 .about-content > span {
-  color: #2c8d02;
+  color: #0350b0;
 
   font-size: 11px;
 

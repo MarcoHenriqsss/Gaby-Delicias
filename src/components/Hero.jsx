@@ -6,17 +6,17 @@ function Hero() {
       <div className="hero-content">
 
         <span className="hero-small">
-          O Nutritivo - Produtos Naturais
+          Delicias da Gaby - Doces caseiros e saborosos que encantam o paladar.
         </span>
 
         <h1>
-          Produtos naturais que cuidam de você e do planeta.
+          Produtos saborosos que encantam o paladar.
           <br />
           
         </h1>
 
         <p>
-          Descubra a nossa coleção de produtos naturais
+          Descubra a nossa variedade de doces caseiros, feito com amor.
         </p>
 
         <a href="#productos" className="hero-button">

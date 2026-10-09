@@ -363,7 +363,7 @@ async function excluirProduto(produto) {
         <div className="admin-login-box">
 
           <span className="admin-login-small">
-            O Nutritivo
+            Delicias da Gaby
           </span>
 
           <h1>
@@ -434,7 +434,7 @@ async function excluirProduto(produto) {
 
         <div>
           <span>
-            O Nutritivo
+            Delicias da Gaby
           </span>
 
           <h1>
@@ -599,7 +599,7 @@ async function excluirProduto(produto) {
 
               <div>
                 <span>
-                  O Nutritivo
+                  Delicias da Gaby
                 </span>
 
                 <h2>
